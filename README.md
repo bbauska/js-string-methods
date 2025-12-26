@@ -27,12 +27,12 @@ console.log(d);
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
-Geeks
-for
+Geeks<br>
+for<br>
 Geeks
 </blockquote>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>substring()</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -51,6 +51,7 @@ console.log(part);
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
 Power
 </blockquote>
@@ -72,6 +73,7 @@ console.log(part);
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
 Power
 </blockquote>
@@ -116,6 +118,7 @@ console.log(part);
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
 Mind, Space, Space, Soul
 </blockquote>
@@ -138,6 +141,7 @@ console.log(geeks.toUpperCase());
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
 STANDS-FOR-GEEKSFORGEEKS
 </blockquote>
@@ -159,6 +163,7 @@ console.log(geeks.toLowerCase());
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
 stands-for-geeksforgeeks
 </blockquote>
@@ -180,6 +185,7 @@ console.log(geeks.toLowerCase());
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
 stands-for-geeksforgeeks
 </blockquote>
@@ -201,6 +207,7 @@ let geeks = 'stands for GeeksforGeeks';
 console.log(gfg.concat(geeks));
 </pre>
 <h4>Output</h4>
+
 <blockquote>
 GFG stands for GeeksforGeeks
 </blockquote>
@@ -227,8 +234,9 @@ console.log(newGfg.length)
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
-7
+7<br>
 3
 </blockquote>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -252,8 +260,9 @@ console.log(part);
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
-  Soul
+  Soul<br>
 Soul
 </blockquote>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -277,8 +286,9 @@ console.log(part);
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
-Soul  
+Soul<br>
 Soul
 </blockquote>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -300,6 +310,7 @@ console.log(stone);
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
 Mind Soul
 </blockquote>
@@ -322,6 +333,7 @@ console.log(stone);
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
 Soul Power
 </blockquote>
@@ -349,11 +361,12 @@ console.log(geeks.charAt(5));
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
-GeeksforGeeks
-GfG is the best platform to learn and
-experience Computer Science.
-G
+GeeksforGeeks<br>
+GfG is the best platform to learn and<br>
+experience Computer Science.<br>
+G<br>
 s
 </blockquote>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -375,8 +388,9 @@ console.log(geeks.charCodeAt(5));
 </pre>
 
 <h4>Output</h4>
+
 <blockquote>
-71
+71<br>
 115
 </blockquote>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -394,6 +408,7 @@ console.log(geeks.split('-'))
 </pre>
 
 <h4>Output</h4>
+
 <blockqote>
 &lbrack; 'stands', 'for', 'GeeksforGeeks' &rbrack;
 </blockquote>
@@ -411,11 +426,11 @@ console.log(geeks.split('-'))
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-at-method/">at()</a></td>
-	<td>Find the character at the specified index.</td>
+    <td>Find the character at the specified index.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-anchor-method/">anchor()</a></td>
-	<td>Creates an anchor element that is used as a hypertext target.</td>
+    <td>Creates an anchor element that is used as a hypertext target.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-charat-method/">charAt()</a></td>
@@ -423,162 +438,162 @@ console.log(geeks.split('-'))
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-charcodeat-method/">charCodeAt()</a></td>
-	<td>Returns a Unicode character set code unit of the character present at the index in the string.</td>
+    <td>Returns a Unicode character set code unit of the character present at the index in the string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-codepointat-method/">codePointAt()</a></td>
-	<td>Return a non-negative integer value i.e, the code point value of the specified element.</td>
+    <td>Return a non-negative integer value i.e, the code point value of the specified element.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-concat-method/">concat()</a></td>
-	<td>Join two or more strings together in JavaScript.</td>
+    <td>Join two or more strings together in JavaScript.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-endswith-method/">endsWith()</a></td>
-	<td>Whether the given string ends with the characters of the specified string or not.</td>
+    <td>Whether the given string ends with the characters of the specified string or not.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-includes-method/">includes()</a></td>
-	<td>Returns true if the string contains the characters, otherwise, it returns false.</td>
+    <td>Returns true if the string contains the characters, otherwise, it returns false.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-indexof-method/">indexOf()</a></td>
-	<td>Finds the index of the first occurrence of the argument string in the given string.</td>
+    <td>Finds the index of the first occurrence of the argument string in the given string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-lastindexof-method/">lastIndexOf()</a></td>
-	<td>Finds the index of the last occurrence of the argument string in the given string.</td>
+    <td>Finds the index of the last occurrence of the argument string in the given string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-localecompare-method/">localeCompare()</a></td>
-	<td>Compare any two elements and returns a positive number.</td>
+    <td>Compare any two elements and returns a positive number.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-match-method/">match()</a></td>
-	<td>Search a string for a match against any regular expression.</td>
+    <td>Search a string for a match against any regular expression.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-matchall-method/">matchAll()</a></td>
-	<td>Return all the iterators matching the reference string against a regular expression.</td>
+    <td>Return all the iterators matching the reference string against a regular expression.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-normalize-method/">normalize()</td>
-	<td>Return a Unicode normalization form of a given input string.</td>
+    <td>Return a Unicode normalization form of a given input string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-padend-method/">padEnd()</a></td>
-	<td>Pad a string with another string until it reaches the given length from rightend.</td>
+    <td>Pad a string with another string until it reaches the given length from rightend.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-padstart-method/">padStart()</a></td>
-	<td>Pad a string with another string until it reaches the given length from leftend.</td>
+    <td>Pad a string with another string until it reaches the given length from leftend.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-repeat-method/">repeat()</a></td>
-	<td>Build a new string containing a specified number of copies of the string.</td>
+    <td>Build a new string containing a specified number of copies of the string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-replace-method/">replace()</a></td>
-	<td>Replace a part of the given string with some another string or a regular expression.</td>
+    <td>Replace a part of the given string with some another string or a regular expression.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-replaceall-method/">replaceAll()</a></td>
-	<td>Returns a new string after replacing all the matches of a string with a specified string/regex.</td>
+    <td>Returns a new string after replacing all the matches of a string with a specified string/regex.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-search-method/">search()</td>
-	<td>Search for a match in between regular expressions and a given string object.</td>
+    <td>Search for a match in between regular expressions and a given string object.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-slice-method/">slice()</a></td>
-	<td>Return a part or slice of the given input string.</td>
+    <td>Return a part or slice of the given input string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-split-method/">split()</a></td>
-	<td>Separate given string into substrings using a specified separator provided in the argument.</td>
+    <td>Separate given string into substrings using a specified separator provided in the argument.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-startswith-method/">startsWith()</a></td>
-	<td>Check whether the given string starts with the characters of the specified string or not.</td>
+    <td>Check whether the given string starts with the characters of the specified string or not.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-substr-method/">substr()</a></td>
-	<td>Returns the specified number of characters from the specified index from the given string.</td>
+    <td>Returns the specified number of characters from the specified index from the given string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-substring-method/">substring()</a></td>
-	<td>Return the part of the given string from the start index to the end index.</td>
+    <td>Return the part of the given string from the start index to the end index.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-tolowercase-method/">toLowerCase()</a></td>
-	<td>Converts the entire string to lowercase.</td>
+    <td>Converts the entire string to lowercase.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-tolocalelowercase-method/">toLocaleLowerCase()</a></td>
-	<td>Returns the calling string value converted to a lowercase letter.</td>
+    <td>Returns the calling string value converted to a lowercase letter.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-tolocaleuppercase-method/">toLocaleUpperCase()</a></td>
-	<td>Returns the calling string value converted to a uppercase letter.</td>
+    <td>Returns the calling string value converted to a uppercase letter.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-touppercase-method/">toUpperCase()</a></td>
-	<td>Converts the entire string to uppercase.</td>
+    <td>Converts the entire string to uppercase.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-tostring-method/">toString()</a></td>
-	<td>Return the given string itself.</td>
+    <td>Return the given string itself.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-trim-method/">trim()</a></td>
-	<td>Remove the white spaces from both ends of the given string.</td>
+    <td>Remove the white spaces from both ends of the given string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-trimend-and-trimright-method/">
-	  trimEnd()</a></td>
-	<td>Remove white space from the end of a string.</td>
+      trimEnd()</a></td>
+    <td>Remove white space from the end of a string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-trimstart-and-trimleft-method/">
-	  trimStart()</a></td>
-	<td>Remove white space from the start of a string.</td>
+      trimStart()</a></td>
+    <td>Remove white space from the start of a string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-valueof-method/">valueOf()</a></td>
-	<td>Return the value of the given string.</td>
+    <td>Return the value of the given string.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-iterator-method/">
-	  string&lbrack;Symbol.iterator&rbrack;()</a></td>
-	<td>This method is used to make String iterable. [@@iterator]() returns an iterator object which 
-	  iterates over all code points of the String.</td>
+      string&lbrack;Symbol.iterator&rbrack;()</a></td>
+    <td>This method is used to make String iterable. &lbrack;@@iterator&rbrack;() returns an iterator 
+      object which iterates over all code points of the String.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-fromcharcode-method/">
-	  fromCharCode(n1, n2, ..., nX)</a></td>
-	<td>This method is used to create a string from the given sequence of UTF-16 code units. This 
-	  method returns a string, not a string object.</td>
+      fromCharCode(n1, n2, ..., nX)</a></td>
+    <td>This method is used to create a string from the given sequence of UTF-16 code units. This 
+      method returns a string, not a string object.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-fromcodepoint-method/">
-	  fromCodePoint(a1, a2, a3, ....)</a></td>
-	<td>This method in JavaScript that is used to return a string or an element for the given 
-	sequence of code point values (ASCII value).</td>
+      fromCodePoint(a1, a2, a3, ....)</a></td>
+    <td>This method in JavaScript that is used to return a string or an element for the given 
+    sequence of code point values (ASCII value).</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-iswellformed-method/">isWellFormed()</a></td>
-	<td>This method is used to check if the string contains a lone surrogate or not.</td>
+    <td>This method is used to check if the string contains a lone surrogate or not.</td>
   </tr>
   <tr>
-	<td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-raw-method/">String.raw(str, ...sub)</a></td>
-	<td>This is a static method that is used to get the raw string form of template literals. These 
-	strings do not process escape characters.</td>
+    <td><a href="https://www.geeksforgeeks.org/javascript/javascript-string-raw-method/">String.raw(str, ...sub)</a></td>
+    <td>This is a static method that is used to get the raw string form of template literals. These 
+    strings do not process escape characters.</td>
   </tr>
   <tr>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toWellFormed">
-	  toWellFormed()</a></td>
-	<td>This method is used to return where all lone surrogates of this string are replaced with the 
-	  Unicode replacement character.</td>
+      toWellFormed()</a></td>
+    <td>This method is used to return where all lone surrogates of this string are replaced with the 
+      Unicode replacement character.</td>
 </table>
 
 
